@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 320px;
+  height: 500px;
+  background-color: aqua;
+  margin: 100px auto;
+}
+.calculator {
+  width: 320px;
+  height: 500px;
+}
+#screen {
+  margin-left: 1px;
+  width: 314px;
+  height: 132px;
+  font-size: 50px;
+}
+button {
+  width: 78px;
+  height: 89px;
+  font-size: 24px;
+}
